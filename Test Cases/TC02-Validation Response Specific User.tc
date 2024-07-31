@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-Validation Response Specific User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0244a780-4f93-4146-8ba7-cddf07abe6aa</testCaseGuid>
+</TestCaseEntity>

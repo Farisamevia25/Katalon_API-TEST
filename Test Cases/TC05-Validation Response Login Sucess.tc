@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05-Validation Response Login Sucess</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3b0d610-1ec2-47fb-82af-e42773704b3c</testCaseGuid>
+</TestCaseEntity>

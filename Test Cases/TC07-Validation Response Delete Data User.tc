@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07-Validation Response Delete Data User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee9df7ea-0745-44ea-9aab-32a10370001a</testCaseGuid>
+</TestCaseEntity>
